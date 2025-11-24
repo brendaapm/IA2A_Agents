@@ -107,7 +107,7 @@ graph TB
 
 #🚀 Quick Start
 1. Clone o repositório
-git clone https://github.com/seu-usuario/crm-ia-docs.git
+git clone 
 cd crm-ia-docs
 
 2. Crie e ative o ambiente virtual
@@ -201,11 +201,7 @@ A chave da API OpenAI é carregada via .env e não é versionada.
 🤝**Contribuindo**
 
 Faça um fork do projeto
-
-Crie uma branch: feature/nova-funcionalidade
-
 Faça commits bem descritos
-
 Abra um Pull Request
 
 Sugestões de melhorias:
