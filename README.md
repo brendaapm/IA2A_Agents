@@ -212,7 +212,7 @@ Sugestões de melhorias:
 
 - Acesse o vercel do projeto em: https://brenda-crmai.streamlit.app/
 
-📄** Licença**
+📄**Licença**
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 CRM-IA – Transformando pilhas de papel em dados confiáveis, com IA de ponta e agentes inteligentes. 📄🤖✨
