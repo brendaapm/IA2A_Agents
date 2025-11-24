@@ -214,6 +214,8 @@ Sugestões de melhorias:
 - suporte a outros tipos de documentos;
 - dashboards de qualidade dos dados extraídos.
 
+- Acesse o vercel do projeto em: https://brenda-crmai.streamlit.app/
+
 📄** Licença**
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
