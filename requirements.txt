@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+python-dotenv
+openai>=1.42.0
+pytesseract
+pdf2image
+Pillow
